@@ -3,3 +3,5 @@
 ![image](https://github.com/user-attachments/assets/9006979c-55fa-46bb-9589-27ca153beb8c)
 
 **This is the Gecko company!!!**
+
+Added newlines.txt file
